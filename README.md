@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jianqi Shi</h1>
+<h1 align="center">Hi 👋, I'm Alex Shi</h1>
 <h3 align="center">A software Engineering Student from SJSU</h3>
 
 - 🔭 I’m currently working on **Gembizz**
